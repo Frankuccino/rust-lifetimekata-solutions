@@ -1,3 +1,57 @@
+# LifetimeKata – My Rust Lifetimes Practice
+
+This repository contains my personal solutions and notes while working through the LifetimeKata exercises.
+
+## 🎯 Purpose
+
+The goal of this repository is to:
+
+- Deepen my understanding of Rust lifetimes
+- Practice ownership, borrowing, and memory safety concepts
+- Apply concepts through progressively harder exercises
+- Track my learning progress over time
+
+## 📚 About LifetimeKata
+
+LifetimeKata is a collection of Rust exercises designed to help learners understand lifetimes through hands-on practice. The exercises increase in difficulty and often require reasoning about:
+
+- Borrowing rules
+- References and scopes
+- Struct lifetimes
+- Function and trait lifetimes
+
+## 🛠 How I Use This Repo
+
+- Each exercise is solved in its respective package (e.g., `ex01`, `ex02`, etc.)
+- I run and test solutions using Cargo:
+  ```bash
+  cargo build --package ex01
+  cargo test --package ex01
+  ```
+
+## 🧠 Notes
+
+I may include:
+
+- Personal notes and observations
+
+- Alternative implementations
+
+- Experimentation with Rust features
+
+## 🚀 Progress
+
+- Ex01: -
+
+- Ex02: -
+
+- Ex03: -
+
+📌 Reference
+
+Original LifetimeKata repository:
+https://github.com/tfpk/lifetimekata/
+
 # LifetimeKata
 
 Welcome to LifetimeKata, a set of exercises which you can use to improve your
